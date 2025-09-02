@@ -1,0 +1,30 @@
+Row,Quantity Per PCB,Populate,References,Value,Characteristics,Footprint,Footprint Type,MPN,MPN ALT,LCSC #,Digikey #,Datasheet
+1,10,yes,C4 C5 C6 C7 C8 C9 C10 C11 C12 C13,0.1uf,100n 0402,C_0402_1005Metric,SMD,CL05A104KA5NNNC,GRM155R71E104KE14J,C100072,,~
+2,8,yes,C1 C2 C3 C14 C16 C17 C18 C19,C_1u_0603_50V,1u 0603,C_0603_1608Metric,SMD,GRT188R61H105KE13D,,C5673,490-12330-1-ND,~
+3,1,no,C15,C_1u_0603_50V,1u 0603,C_0603_1608Metric,SMD,GRT188R61H105KE13D,,C5673,490-12330-1-ND,~
+4,2,yes,CON1 CON2,NPTC202KFMS-RC,2x20 100 mil Receptacle SMT,FH-00148_PinSocket_2x20_P2.54mm,SMD,NPTC202KFMS-RC,FH-00148,C2685092,S5690-ND,~
+5,1,no,J1,Conn_01x04,,PinHeader_1x04_P2.54mm_Vertical,THT,,,,,~
+6,2,no,J2 J3,Conn_02x06_Odd_Even,,PinHeader_2x06_P2.54mm_Vertical,THT,,,,,~
+7,2,yes,R3 R4,0R,0R 1206,R_1206_3216Metric,SMD,RC1206FR-130RL,WR12X000 PTL,C137394,13-RC1206FR-130RLCT-ND,~
+8,1,yes,R6,0R,0R 0402,R_0402_1005Metric,SMD,RC0402JR-070RL,WR04X000 PTL,C60485,311-0.0JRCT-ND,~
+9,1,no,R7,0R,0R 0402,R_0402_1005Metric,SMD,RC0402JR-070RL,WR04X000 PTL,C60485,311-0.0JRCT-ND,~
+10,2,yes,R1 R2,1k,1k 0402,R_0402_1005Metric,SMD,,,C202394,,~
+11,1,no,U2,24LC02,I2C eeprom DFN 3x2,DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm,SMD,24LC02BT-I/MC,,C612280,24LC02BT-I/MCCT-ND,http://ww1.microchip.com/downloads/en/DeviceDoc/21709c.pdf
+12,1,yes,U1,Openframe_QFN_TT06_REV2,ASIC IC,QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm,SMD,TT_ASIC,,,,https://github.com/TinyTapeout/tt-multiplexer/blob/tt06-staging/docs/INFO.md#pinout
+
+
+
+
+
+Project info:
+Schematic:,breakout-qfn
+Variant:,default
+Revision:,2.0.0
+Date:,2025-02-24
+KiCad Version:,8.0.8-8.0.8-0~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,32 (29 SMD/ 3 THT)
+Fitted Components:,26 (26 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,26

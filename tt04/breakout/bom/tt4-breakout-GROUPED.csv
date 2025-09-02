@@ -1,0 +1,4 @@
+"Reference","Qty","Value","Footprint","DNP","MPN","MPN_ALT","DigikeyPN","JLC"
+"C1,C2,C3,C4,C5,C6,C7,C10,C11","9","0.1uf","Capacitor_SMD:C_0402_1005Metric","","CL05A104KA5NNNC","GRM155R71E104KE14J","",""
+"CON1,CON2","2","~","TinyTapeout:FH-00148_PinSocket_2x20_P2.54mm","","NPTC202KFMS-RC","FH-00148","S5690-ND","C2685092"
+"U1","1","Caravel_QFN_TT4","TinyTapeout:QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm_REDUCEDPASTE","","TTASICCHIP03P5","","",""

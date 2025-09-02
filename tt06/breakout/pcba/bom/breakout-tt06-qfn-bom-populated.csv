@@ -1,0 +1,26 @@
+Row,Quantity Per PCB,References,Value,Characteristics,Footprint,Footprint Type,MPN,MPN ALT,LCSC #,Digikey #,Datasheet
+1,10,C4 C5 C6 C7 C8 C9 C10 C11 C12 C13,0.1uf,100n 0402,C_0402_1005Metric,SMD,CL05A104KA5NNNC,GRM155R71E104KE14J,C100072,,~
+2,8,C1 C2 C3 C14 C16 C17 C18 C19,C_1u_0603_50V,1u 0603,C_0603_1608Metric,SMD,GRT188R61H105KE13D,,C5673,490-12330-1-ND,~
+3,2,CON1 CON2,~,2x20 100 mil Receptacle SMT,FH-00148_PinSocket_2x20_P2.54mm,SMD,NPTC202KFMS-RC,FH-00148,C2685092,S5690-ND,~
+4,12,J2 J3 J4 J5 J6 J7 J8 J9 J10 J11 J12 J13,U.FL,ipex/u.fl connector,SAMTEC_RSP-122811-01,SMD,RSP-122811-01,U.FL-R-SMT-1(80),C88374,612-RSP-122811-01CT-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6210/rsp-122811-01-mkt.pdf
+5,2,R3 R4,0R,0R 1206,R_1206_3216Metric,SMD,,,,,~
+6,1,R6,0R,0R 0402,R_0402_1005Metric,SMD,,,,,~
+7,2,R1 R2,1k,1k 0402,R_0402_1005Metric,SMD,,,C202394,,~
+8,1,U1,Openframe_QFN_TT06_REV2,ASIC IC,QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm,SMD,,,,,https://github.com/TinyTapeout/tt-multiplexer/blob/tt06-staging/docs/INFO.md#pinout
+
+
+
+
+
+Project info:
+Schematic:,breakout-tt06-qfn
+Variant:,default
+Revision:,1.0
+Date:,2024-08-10
+KiCad Version:,8.0.4-8.0.4-0~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,42 (41 SMD/ 1 THT)
+Fitted Components:,38 (38 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,38

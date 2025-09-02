@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7-8.0.7-0~ubuntu22.04.1*%
+%TF.CreationDate,2024-12-10T15:43:45-05:00*%
+%TF.ProjectId,tinytapeout-demo,74696e79-7461-4706-956f-75742d64656d,2.1.0*%
+%TF.SameCoordinates,PX38be5e0PY7d687e0*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7-8.0.7-0~ubuntu22.04.1) date 2024-12-10 15:43:45*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X2.510000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J11*%
+X118450000Y-71025000D03*
+X115910000Y-74335000D03*
+X113370000Y-71025000D03*
+X110830000Y-74335000D03*
+X108290000Y-71025000D03*
+X105750000Y-74335000D03*
+%TD*%
+M02*

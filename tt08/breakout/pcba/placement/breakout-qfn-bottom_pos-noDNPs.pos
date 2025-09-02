@@ -1,0 +1,8 @@
+### Module positions - created on Tue 25 Feb 2025 06:12:58 PM  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref    Val                       Package                                 PosX      PosY      Rot        Side  
+CON1     NPTC202KFMS-RC            FH-00148_PinSocket_2x20_P2.54mm         5.0000    26.0000   180.0000   bottom
+CON2     NPTC202KFMS-RC            FH-00148_PinSocket_2x20_P2.54mm         45.0000   26.0000   180.0000   bottom
+## End
