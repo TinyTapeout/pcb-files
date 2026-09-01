@@ -3,5 +3,6 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 2,,pkl_C_Small,C2 C4,100n,C_0402_1005Metric,2, ,,,ANY,C307331,CL05B104KB54PNC,,C307331,,,,,,,100nF 50V X7R ±10% 0402 MLCC,,,,,,
 3,,pkl_C,C1,10u,C_0603_1608Metric,1, ,,cap-cer-0603-10u,ANY,C96446,CL10A106MA8NRNC,,C96446,,,,,,,,,,,,,
 4,Male PMOD Peripheral connector,PMOD_PERIPH_2x6,J2,10129382-912001BLF,PinHeader_2x06_P2.54mm_PMODPeriph2B,1, ,https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129382.pdf,,,C492434,,,C492434,,,,,,,2x6 100mil male R/A,,,,,,
-5,"10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thick Film",PsyResistors_IEC/R_10k_0402_1005-12,R1 R2 R3 R4 R5 R6,10k,R_0402_1005Metric,6, ,https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf,,,C25744,ERJ-U02F1002X,,C1858819,Panasonic Electronic Components,,,,,,RES 10K OHM 1% 1/10W 0402,,,10-ERJ-U02F1002XCT-ND,,,0402 (1005 Metric)
-6,,PEC12R-4225F-S0024,S1,PEC12R-4225F-S0024,PEC12R-4225F-S0024,1, ,,,,C5331618,PEC12R-4225F-S0024,,C5331618,,,,,,,,,,PEC12R-4225F-S0024-ND,,,
+5,,PsyResistors_IEC/R_10k_0402_1005-12,R7 R8,0R,R_0402_1005Metric,2, ,,,,C17168,0402WGF0000TCE,,,,,,,,,RES 0 OHM 0402,,,,,,0402 (1005 Metric)
+6,"10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thick Film",PsyResistors_IEC/R_10k_0402_1005-12,R1 R2 R3 R4 R5 R6,10k,R_0402_1005Metric,6, ,https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf,,,C25744,ERJ-U02F1002X,,C1858819,Panasonic Electronic Components,,,,,,RES 10K OHM 1% 1/10W 0402,,,10-ERJ-U02F1002XCT-ND,,,0402 (1005 Metric)
+7,,PEC12R-4225F-S0024,S1,PEC12R-4225F-S0024,PEC12R-4225F-S0024,1, ,,,,C5331618,PEC12R-4225F-S0024,,C5331618,,,,,,,,,,PEC12R-4225F-S0024-ND,,,

@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.9-9.0.9~ubuntu24.04.1"
+      "Version": "10.0.5-10.0.5~ubuntu24.04.1"
     },
-    "CreationDate": "2026-08-04T17:21:09-04:00"
+    "CreationDate": "2026-09-01T15:38:33-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pmod-rotaryencoder",
       "GUID": "706d6f64-2d72-46f7-9461-7279656e636f",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 34.15,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.3,
       "RegionToRegion": 0.3
     }
